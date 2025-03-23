@@ -1,1 +1,3 @@
-Rocky So\n101473619\nGit repository created from Azure instance
+Rocky So
+101473619
+Git repository created from Azure instance
